@@ -19,7 +19,8 @@ Választott téma:
 **Osztályzat-követő alkalmazás**  
 
 ##### 
-A feladat során egy olyan alkalmazást kell elkészíteni, ahol egy tanuló tudja rögzíteni a jegyeit tárgyanként. Egy külön pane-en lehessen új tárgyat felvinni. A fő pane-en lenyíló listával lehessen szűrni tárgyakat. A jegyek táblázata alatt jelenjen meg az adott tárgy átlaga.  
+A feladat során egy olyan alkalmazást kell elkészíteni, ahol egy tanuló tudja rögzíteni a jegyeit tárgyanként. 
+Egy külön pane-en lehessen új tárgyat felvinni. A fő pane-en lenyíló listával lehessen szűrni tárgyakat. A jegyek táblázata alatt jelenjen meg az adott tárgy átlaga.  
 Az adatbázis táblájában minden bejegyzéshez rögzítésre kerüljön a tárgy, időpont, jegy, témakör (pl mire kapta a diák az adott jegyet). A jegyekről lehessen pdf formátumban jelentést készíteni egy meghatározott időszakra és egy vagy több meghatározott tárgyra.
 
 ####
