@@ -38,7 +38,7 @@ Feladat leírása
 
 **A feladat során 2-3 fős csapatokban kell megoldanotok a lejjebb felsorolt témák egyikét. Szabadon is választhatók témák, de előtte egyeztetni kell róla egy oktatóval!  
 A projektben egy teljes értékű JavaFX alkalmazást kell implementálni, teszteléseket végezni, dokumentálni, végül prezentálni.  
-Ebből kifo-lyólag a projektre 3 tárgyból is kaptok értékelést: Asztali alkalmazás fejlesztés 2, Szoftvertesztelés, IKT projektmunka. Mindegyik csapattagnak részt kell vennie a kódolási, tesztelési, dokumentációs és prezentációs folya- matokban! Ajánlott, hogy mindenki a saját maga által implementált funkciókat tesztelje, dokumen- tálja és prezentálja! Minden csapatban lehetőleg azonos képességű tagok legyenek!**  
+Ebből kifolyólag a projektre 3 tárgyból is kaptok értékelést: Asztali alkalmazás fejlesztés 2, Szoftvertesztelés, IKT projektmunka. Mindegyik csapattagnak részt kell vennie a kódolási, tesztelési, dokumentációs és prezentációs folya- matokban! Ajánlott, hogy mindenki a saját maga által implementált funkciókat tesztelje, dokumen- tálja és prezentálja! Minden csapatban lehetőleg azonos képességű tagok legyenek!**  
 ####
 
 Elvárások
