@@ -4,13 +4,13 @@
 
 <h5>MENÜ</h5>
 
-- 1. Tanulány
-- 2. Jegyek
-- 3. Tantárgy Felvétel
-- 4. Export
-- 5. Exit
+- I. Tanulány
+- II. Jegyek
+- III. Tantárgy Felvétel
+- IV. Export
+- V. Exit
 
-<h5>1. Tanulány </h5>
+<h5>I. Tanulány </h5>
     
     1a. Válassza ki a menüpont lista alatt a Tanulmány opciót.
         1 Bal egérgomb kattintás
@@ -39,7 +39,7 @@
         3. Majd a bal leti sarokban lévő Törlés gombra menjen, szintén bal egér gombbal.
 
 
-<h5>2. Jegyek </h5>
+<h5>II. Jegyek </h5>
 
     2a. Válassza ki a menüpont lista alatt a Jegyek opciót.
         1 Bal egérgomb kattintás
@@ -57,7 +57,7 @@
         6. Miután minden opció kitöltésre került a jobb lenti gombot nyomja meg egy bal egér gombos kattintással (Feltöltés)
         7. A feltölés gombra kattintás után a beírt adatok bekerültek a Tanulány táblázatba.
 
-<h5>3. Tantárgy Felvétel </h5>
+<h5>III. Tantárgy Felvétel </h5>
 
     3a. Válassza ki a menüpont lista alatt a Tantárgy_Felvétel opciót.
         1 Bal egérgomb kattintás
@@ -82,7 +82,7 @@
         1. Itt található minden felvett tantárgy
         2. Amennyiben a betelt volna az alapértelmezett terület a tantárgyakkal, akkor körgető sávval tud lentebb és fentebb menni
 
-<h5>4. Export </h5>
+<h5>IV. Export </h5>
 
     4a. Válassza ki a menüpont lista alatt a Export opciót.
         1 Bal egérgomb kattintás
@@ -107,7 +107,7 @@
         5. Miután mindent kitöltött menjen rá a CSV generálás opcióra. 
         6. Az outputsFile mappában fogja megtalálni a legenrált fájlt
 
-<h5>5. Export </h5>
+<h5>V. Export </h5>
 
     5a. Válassza ki a menüpont lista alatt a Exit opciót.
         1 Bal egérgomb kattintás
